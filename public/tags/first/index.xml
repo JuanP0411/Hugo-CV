@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Juan Pablo Herrera</title>
+    <link>http://localhost:1313/tags/first/</link>
+    <description>Recent content in First on Juan Pablo Herrera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Juan Pablo Herrera</copyright>
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mango Leaf Classifier</title>
+      <link>http://localhost:1313/portfolio/mango-classifier/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/mango-classifier/</guid>
+      <description>An AI model which diagnoses diseases on Mango plants</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/mango-classifier/featured.png" />
+    </item>
+    
+    <item>
+      <title>Resume Creator</title>
+      <link>http://localhost:1313/portfolio/resume-creator/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/resume-creator/</guid>
+      <description>A tool that helps you create and present your CV</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/resume-creator/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
